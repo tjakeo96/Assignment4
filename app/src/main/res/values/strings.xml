@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PTC Management</string>
+    <string name="username">jdoe</string>
+    <string name="password">welcome1</string>
+    <string name="successful_login">Login Successful</string>
+    <string name="unsuccessful_login">Login Failed</string>
+</resources>
